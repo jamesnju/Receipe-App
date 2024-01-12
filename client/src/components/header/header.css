@@ -1,0 +1,33 @@
+.active{
+    background-color: blue;
+    border-radius: 5px;
+    border-bottom: 2px solid red;
+    padding: 4px;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    background-color: rgb(5, 5, 48);
+    color: aliceblue;
+}
+.links{
+    color: aliceblue;
+}
+.conta{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.link{
+    display: flex;
+    justify-content: space-around;
+    gap: 2rem;
+    align-items: center;
+}
+a{
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+    gap: 2rem;
+}

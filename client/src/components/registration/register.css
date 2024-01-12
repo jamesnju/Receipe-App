@@ -1,0 +1,10 @@
+form{
+    background-color: gainsboro;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 2rem;
+}
+input{
+    width: 20rem;
+    border-radius: 5px;
+}
